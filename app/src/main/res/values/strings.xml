@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Celsius To Fahrenheit Converter</string>
+    <string name="thermometer_image">Thermometer Header Image</string>
+    <string name="temperature_value">Temperature Value</string>
+    <string name="cToF">Celsius to Fahrenheit</string>
+    <string name="fToC">Fahrenheit to Celsius</string>
+    <string name="convert">Convert</string>
+    <string name="empty_value">Required Field!</string>
+    <string name="output">%1$s &#176;%2$s\n %3$s\n %4$s &#176;%5$s</string>
+</resources>
